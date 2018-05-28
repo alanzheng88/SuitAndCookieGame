@@ -1,3 +1,3 @@
-# Suit And Cookie Game
+# Suit and Cookie Game
 
-![game demo](https://github.com/alanzheng88/SuitAndCookieGame/blob/master/images/histogram.jpg)
+![game demo](https://github.com/alanzheng88/SuitAndCookieGame/blob/master/images/suit_and_cookie_game.jpg)
